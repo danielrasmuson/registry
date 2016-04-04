@@ -529,6 +529,7 @@
   "webcomponents": "npm:webcomponents",
   "webfont": "github:components/webfontloader",
   "when": "github:cujojs/when",
+  "wicket": "npm:wicket",
   "wire": "github:cujojs/wire",
   "wordcloud2": "github:timdream/wordcloud2.js",
   "xlsjs": "github:SheetJS/js-xls",

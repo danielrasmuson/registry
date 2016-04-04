@@ -1,0 +1,9 @@
+{
+  "format": "global",
+  "main": "wicket",
+  "shim": {
+    "wicket": {
+      "exports": "Wkt"
+    }
+  }
+}
