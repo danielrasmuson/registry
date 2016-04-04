@@ -341,7 +341,7 @@
   "knockout-select2": "github:cruikshj/knockout-select2",
   "knockout-validation": "github:Knockout-Contrib/Knockout-Validation",
   "lazy":"npm:lazy.js",
-  "leaflet": "github:Leaflet/Leaflet",
+  "leaflet": "github:chasemgray/Leaflet@0.8-alpha",
   "less.js": "github:distros/less",
   "lightbox2": "github:lokesh/lightbox2",
   "linq4es2015": "github:Fermium-co/LINQ4ES2015",

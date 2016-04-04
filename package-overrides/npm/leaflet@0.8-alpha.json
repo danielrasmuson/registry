@@ -1,0 +1,9 @@
+{
+  "format": "global",
+  "main": "leaflet",
+  "shim": {
+    "leaflet": {
+      "exports": "L"
+    }
+  }
+}
